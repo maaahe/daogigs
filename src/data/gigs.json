@@ -1,0 +1,17 @@
+{
+    "gigs": [
+        {
+            "gigName": "Need a web3 developer",
+            "company": "Carbon fund",
+            "url": "https://google.com",
+            "image": null
+        },
+
+        {
+            "gigName": "Looking for a designer",
+            "company": "Web3.co",
+            "url": "https://nytimes.com",
+            "image": null
+        }
+    ]
+}
