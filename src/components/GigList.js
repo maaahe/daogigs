@@ -6,6 +6,7 @@ export default function GigList({gigs}) {
         <div>
             {gigs.map(gig => 
                     <Gig
+                        key={gig.id}
                         {...gig}
                     />
                 )}
